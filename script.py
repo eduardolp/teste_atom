@@ -6,6 +6,10 @@ for i in range(5)
 
 print(a)
 
-b = 'something else'
+# b = 'something else'
+#
+# print(b)
 
-print(b)
+c = 'a third print statement'
+
+print(c)
